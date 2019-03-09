@@ -1,3 +1,3 @@
 1 + 1
 
-1 + "is a magical number"
+1 + "is the lonelinest number"
