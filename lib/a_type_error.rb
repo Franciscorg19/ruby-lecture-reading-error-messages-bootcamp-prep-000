@@ -1,3 +1,3 @@
 1 + 1
 
-1 + "is 2"
+1 + "is a magical number"
